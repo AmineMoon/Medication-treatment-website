@@ -17,11 +17,11 @@ git clone https://github.com/themewagon/primeDental.git
 
 ## Author 
 ```
-Design and code is completely written by Farah Abuassi and development team. 
+Design and code is completely written by Amine and development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="https://github.com/farahabuassi17" target="_blank">Farah Abuassi</a>
+ - Design and Code is Copyright &copy; <a href="https://github.com/farahabuassi17" target="_blank">Amine</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
