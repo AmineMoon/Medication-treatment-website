@@ -11,7 +11,7 @@
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/primeDental.git
+git clone  https://github.com/AmineMoon/Medication-treatment-website.git
 ```
 
 
